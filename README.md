@@ -10,7 +10,7 @@ Front | Back
 
 ### Run the project :
 
-To run the project, go to main repository's Readme and follow instructions : [Link](https://github.com/borisBelloc/LibertChan)
+To run the project, go to main repository's Readme and follow instructions : [Link :floppy_disk: ](https://github.com/borisBelloc/LibertChan)
 
 ### Technos :
 - [Angular 9](https://www.npmjs.com/package/@angular/cli)
