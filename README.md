@@ -31,7 +31,6 @@ To run the project, go to main repository's Readme and follow instructions : [Li
 -----
 
 
-
 ##### branchs :
 - **toast** Version avant _security_ avec toast sur signalement
 - **AuthTp** (TP Lionnel) Protected Route with Auth -> **this branch need `npm install`**
